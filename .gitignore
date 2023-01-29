@@ -10,6 +10,12 @@
 *.userosscache
 *.sln.docstates
 
+# My files
+/.vscode
+README.md
+Zadacha2-28-01-2023.csproj
+.gitignore
+
 # User-specific files (MonoDevelop/Xamarin Studio)
 *.userprefs
 
