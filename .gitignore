@@ -396,3 +396,10 @@ FodyWeavers.xsd
 
 # JetBrains Rider
 *.sln.iml
+
+# My files
+
+/.vscode
+README.md
+Zadacha2-28-01-2023.csproj
+.gitignore
